@@ -12,6 +12,7 @@ Working on multiple frontend and backend project using React and and ROR.
 <br>
 
 ## Expertise
+
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
@@ -24,7 +25,8 @@ Working on multiple frontend and backend project using React and and ROR.
 <br>
 <br>
 
-##Blog Posts
+## Blog Posts
+
 https://wingerwingman.github.io/
 
 <!--
