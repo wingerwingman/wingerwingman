@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a fullstack software engineer from Colorado.
+I am a fullstack software engineer from Colorado
 
 Working on multiple frontend and backend project using React and and ROR.
 <br>
