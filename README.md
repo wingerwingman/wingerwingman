@@ -1,7 +1,5 @@
 ### Hi there 👋
-I am a fullstack software engineer from Colorado
-
-Working on multiple frontend and backend project using React and and ROR.
+Fullstack Web Developer experienced in Ruby on Rails and JavaScript based programming and a background in React with Redux. Very independent strong worker. Value teamwork to make things more proficient. When I am not coding I am out climbing and enjoying Colorado's great outdoors. 
 <br>
 
 ## Connect with me
